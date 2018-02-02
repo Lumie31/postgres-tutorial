@@ -2,6 +2,7 @@ const express = require('express')
 const logger = require('morgan')
 const bodyParser = require('body-parser')
 
+// Instantiate the express function in the an app variable
 const app = express()
 
 app.use(logger('dev'))
