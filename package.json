@@ -11,12 +11,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "atob": "^2.1.2",
     "body-parser": "^1.18.2",
+    "deep-extend": "^0.6.0",
     "express": "^4.16.2",
     "gulp": "^3.9.1",
+    "mixin-deep": "^2.0.0",
     "morgan": "^1.9.0",
     "pg": "^7.4.0",
     "pg-hstore": "^2.3.2",
+    "randomatic": "^3.1.1",
     "sequelize": "^4.28.2"
   },
   "devDependencies": {
